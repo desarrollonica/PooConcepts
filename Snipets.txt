@@ -1,0 +1,26 @@
+ctor: permite crear un constructor.
+
+Agrupamos codigo y presionamos (CTRL + K + S) -> try para crearnos un bloqe TryCatch.
+
+Agrupamos codigo y presionamos (CTRL + K + C) -> Crear comentarios de multiples líneas.
+
+Imperio Romano 10 Meses
+-----------------------
+Septiembre 7
+Octubre 8
+Noviembre 9
+Diciembre 10
+
+Emperador Julio Cesar -> Metio el mes de Julio como 7 quedando
+Julio 7
+Septiembre 8
+Octubre 9
+Noviembre 10
+Diciembre 11
+
+Emperador Cesar Augusto -> Metio el mes de Agosto como 8 quedando
+Agosto 8
+Septiembre 9
+Octubre 10
+Noviembre 11
+Diciembre 12
